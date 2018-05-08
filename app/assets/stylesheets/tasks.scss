@@ -1,0 +1,22 @@
+// Place all the styles related to the Tasks controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.task_list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 18px;
+  font-size: 15px;
+  width: 200px;
+  a {
+    font-weight: 18px;
+    font-size: 15px;
+    text-decoration: none;
+  }
+  p {
+    font-weight: 18px;
+    font-size: 15px;
+    text-decoration: none;
+  }
+
+}
